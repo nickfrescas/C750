@@ -1,0 +1,15 @@
+https://github.com/gauravansal/Wrangle-OpenStreetMap-Data
+	
+https://github.com/cagigas/P3-Wrangle-OpenStreetMap-Data
+    
+https://github.com/anilsai/Wrangle-OpenStreetMap-Data-SQL-database-Udacity-project
+
+https://careerkarma.com/blog/python-string-to-int/#:~:text=To%20convert%20an%20integer%20to,as%20a%20str%20%2C%20or%20string.
+
+https://stackoverflow.com/questions/27572387/query-that-returns-the-size-of-a-table-in-a-sqlite-database
+
+https://stackoverflow.com/questions/9233027/unicodedecodeerror-charmap-codec-cant-decode-byte-x-in-position-y-character
+
+https://stackoverflow.com/questions/5838605/python-dictwriter-writing-utf-8-encoded-csv-files/5838817#5838817
+
+https://docs.python.org/3/library/xml.etree.elementtree.html
